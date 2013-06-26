@@ -5,7 +5,7 @@
 //  Created by Graham Cruse on 10/08/2012.
 //  Copyright (c) 2012 Zendesk All rights reserved.
 //
-//  Mayor Overhaul by Daniel Eggert on 11/20/2012.
+//  Mayor Overhaul by BioWink GmbH on 11/20/2012.
 //  Copyright (c) 2012 BioWink All rights reserved.
 //
 
